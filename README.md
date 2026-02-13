@@ -5,6 +5,7 @@ Python NLP text preprocessing using NLTK for tokenization, stopword removal, pun
 This project implements a Python-based text preprocessing pipeline using the NLTK library.
 
 ## Features
+- Lowercasing
 - Tokenization
 - Stopword removal
 - Punctuation filtering
@@ -13,6 +14,7 @@ This project implements a Python-based text preprocessing pipeline using the NLT
 ## Requirements
 - Python 3.x
 - nltk
+- string module
 
 ## Setup Instructions
 
